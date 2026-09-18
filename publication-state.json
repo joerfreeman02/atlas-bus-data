@@ -1,0 +1,25 @@
+{
+  "schema": "atlas-reference-data-publication-state-v4",
+  "dataset": "bus",
+  "publicationVersion": "35352167115-c670698dbf709a953d15b3927ee677fb502d1b3a",
+  "generatedAt": "2026-09-18T13:46:55Z",
+  "lifecycle": "candidate-ready",
+  "activeSlot": null,
+  "candidateSlot": "slot-a",
+  "previousSlot": null,
+  "safetyLimitBytes": 900000000,
+  "candidate": {
+    "fileCount": 1372,
+    "bytes": 88009510,
+    "sha256": "a98d119f0969a74a30a0618c977e91a468ed852af50e4b091e08ca9e1e4da276"
+  },
+  "totalSite": {
+    "fileCount": 1374,
+    "bytes": 88009549,
+    "sha256": "853485fed99e222f12ecd921d172c56aba602f05c4b7b048c5dc7f1c901ae056"
+  },
+  "audit": {
+    "current": "audit/current.json",
+    "previous": "audit/previous.json"
+  }
+}

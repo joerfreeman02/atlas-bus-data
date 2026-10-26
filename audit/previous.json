@@ -1,0 +1,12 @@
+{
+  "schema": "atlas-reference-data-publication-audit-v3",
+  "publicationVersion": "40322385143-108d898221f84c78c061db4f81335dcd911d6a0e",
+  "generatedAt": "2026-10-20T13:28:46Z",
+  "dataset": "bus",
+  "sourceSha256": "583db09c48374a06591caf4da38da52168fc53a49c2268789e977ada970bd295",
+  "candidateSha256": "f9274a3ad970afc2ebb20446fef76c5bb0ccf31bb973d779c948fe92676722e9",
+  "candidateBytes": 143449722,
+  "candidateFiles": 1636,
+  "activeSlot": "slot-a",
+  "candidateSlot": "slot-b"
+}
